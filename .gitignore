@@ -1,2 +1,6 @@
-out
+dist
+dist/**
 node_modules
+webpack.config.js
+yarn-error.log
+vscode-direnv-*.vsix

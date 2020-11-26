@@ -1,6 +1,5 @@
 .vscode/**
 typings/**
-out/test/**
 test/**
 src/**
 debug/**
@@ -8,3 +7,4 @@ debug/**
 .gitignore
 tsconfig.json
 vsc-extension-quickstart.md
+webpack.config.js
